@@ -1,0 +1,2 @@
+# LeetSol
+Practice of leetcode
